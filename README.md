@@ -1,6 +1,6 @@
 # Quick React with Tailwind
 
-This repository serves as a quick setup for a React project with Tailwind CSS, built using Vite. It includes a set of dummy data for a food-related application.
+This repository serves as a quick setup for a React project with Tailwind CSS, built using Vite.
 
 ## Getting Started
 
